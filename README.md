@@ -30,15 +30,15 @@ Network programing library for C++. Socket, Server, and Client will be covered.
   - ::1
   - ::1/128
   - ::ffff:127.0.0.1
-  
-**Subnets**
+
+### Subnets
 - netmask
   - Class A: 255.0.0.0
   - Class B: 255.255.0.0
   - Class C: 255.255.255.0
 - Put subnet by adding slash after IP address
   - e.g. 127.0.0.1/17
-  
-  ## Port Number
-  16-bit number used by socket to find the connection in the local
-  - Service can be differentiated by port number with same IP Address
+
+## Port Number
+16-bit number used by socket to find the connection in the local
+- Service can be differentiated by port number with same IP Address
