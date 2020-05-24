@@ -22,6 +22,7 @@ Network programing library for C++. Socket, Server, and Client will be covered.
 - Consist of 32-bit(4-bytes) (e.g. 127.0.0.1.)
 - Loopback: 127.0.0.1.
 - All internet website uses IPv4
+
 **The Internet Protocol Version 6**
 - IPv6
 - Consist of 128-bit (e.g. 0000:0000:0000:0000:0000:0000:0000:ffff)
@@ -29,6 +30,7 @@ Network programing library for C++. Socket, Server, and Client will be covered.
   - ::1
   - ::1/128
   - ::ffff:127.0.0.1
+  
 **Subnets**
 - netmask
   - Class A: 255.0.0.0
